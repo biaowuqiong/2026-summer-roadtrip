@@ -1,0 +1,6 @@
+# 敏感配置，勿提交
+reasonix.toml
+
+# 内部工具数据
+.codegraph/
+.reasonix/
